@@ -93,7 +93,7 @@ div#sea {
 }
 .giftbox:after {
   position: absolute;
-  color: #fff;
+  color: #00FF00;
   width: 100%;
   content: "Click Me!";
   left: 0;
